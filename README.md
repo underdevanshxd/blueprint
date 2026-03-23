@@ -2,7 +2,7 @@ PTERODACTYL PANEL BLUEPRINT & ADDONS INSTALLER
 =================================================
 
 🚀 Ultimate One‑Click Installer for Pterodactyl Blueprints & Addons  
-Created by **Hopingboyz** — Fast, Clean, Fully Automated  
+Created by **UnderDevanshXD** — Fast, Clean, Fully Automated  
 Compatible with **Ubuntu / Debian** systems and **Pterodactyl v1.x**
 
 ------------------------------------------------------------
@@ -78,15 +78,15 @@ Backups and checks before making changes.
 ------------------------------------------------------------
 
 If you find bugs or want new features:  
-GitHub Issues: **https://github.com/hopingboyz/blueprint/issues**
+DM ME ON DISCORD :- underdevanshxd
 
 ------------------------------------------------------------
 ❤️ CREDITS
 ------------------------------------------------------------
 
-Developed by **Hopingboyz**  
-YouTube: https://youtube.com/@HopingBoyz  
-GitHub: https://github.com/hopingboyz  
+Developed by **UnderDevanshXD**  
+YouTube: https://www.youtube.com/@devanshdagoat
+GitHub: https://github.com/underdevanshxd
 
 ------------------------------------------------------------
 ⭐ LIKE THIS PROJECT?
